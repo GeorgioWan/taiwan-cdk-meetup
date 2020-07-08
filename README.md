@@ -1,8 +1,8 @@
-# Welcome to your CDK TypeScript project!
+# Easy CDK deploy ECS Fargate Demo
 
-This is a blank project for TypeScript development with CDK.
+This is a demo that use CDK to build **ECS Fargate Task Definition**, **ECS Service**, **Log Group**, **Security Group**, **ELB**...etc.
 
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+> Note: Base on existion Network Stack or Default.
 
 ## Useful commands
 
